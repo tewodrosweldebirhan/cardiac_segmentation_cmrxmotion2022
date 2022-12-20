@@ -16,3 +16,5 @@ we observe that images with higher aleatoric uncertainty are more difficult to c
 based MAA enhanced the segmentation accuracy of the baseline model. From the results, we also observe that using a hybrid loss of Dice and PolyLoss can be advantageous 
 to robustly segment cardiac MRIs with motion artefact, leading to a mean Dice of 0.9204, 0.8315, and 0.8906 and mean HD95 of 8.09 mm, 3.60 mm and 6.07 mm for LV, MYO and 
 RV respectively on the official validation set. On the test set, the proposed segmentation method was ranked in second place in the segmentation task of CMRxMotion 2022 challenge.
+
+Full paper: https://hal.archives-ouvertes.fr/hal-03880574
