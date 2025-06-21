@@ -18,3 +18,8 @@ to robustly segment cardiac MRIs with motion artefact, leading to a mean Dice of
 RV respectively on the official validation set. On the test set, the proposed segmentation method was ranked in second place in the segmentation task of CMRxMotion 2022 challenge.
 
 Full paper: https://hal.archives-ouvertes.fr/hal-03880574
+
+This work was supported by the French National Research Agency (ANR), with reference ANR-19-CE45-0001-
+01-ACCECIT. Calculations were performed using HPC resources from DNUM CCUB (Centre de Calcul de l’Université
+de Bourgogne) and from GENCI–IDRIS (Grant 2022-AD011013506). We also thank the Mesocentre of Franche-Comté for the
+computing facilities.
